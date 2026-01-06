@@ -1,0 +1,7 @@
+{
+  "name": "RAWLINE — Intentional Form",
+  "description": "A process-driven fashion publication and commerce platform focusing on raw ideas, first drafts, and honest construction.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
